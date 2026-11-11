@@ -26,26 +26,26 @@ This repository documents my progress through the course, with custom notes to r
 ```text
 kaggle-python/
 ├── Hello, Python
-│   ├── Kaggle Python - Notes 01.pdf
-│   └── Kaggle Python - Solution 01.pdf
+│   ├── Kaggle Python - Notes 01.docx
+│   └── Kaggle Python - Solution 01.ipynb
 ├── Functions and Getting Help
-│   ├── Kaggle Python - Notes 02.pdf
-│   └── Kaggle Python - Solution 02.pdf
+│   ├── Kaggle Python - Notes 02.docx
+│   └── Kaggle Python - Solution 02.ipynb
 ├── Booleans and Conditionals
-│   ├── Kaggle Python - Notes 03.pdf
-│   └── Kaggle Python - Solution 03.pdf
+│   ├── Kaggle Python - Notes 03.docx
+│   └── Kaggle Python - Solution 03.ipynb
 ├── Lists
-│   ├── Kaggle Python - Notes 04.pdf
-│   └── Kaggle Python - Solution 04.pdf
+│   ├── Kaggle Python - Notes 04.docx
+│   └── Kaggle Python - Solution 04.ipynb
 ├── Loops and List Comprehensions
-│   ├── Kaggle Python - Notes 05.pdf
-│   └── Kaggle Python - Solution 05.pdf
+│   ├── Kaggle Python - Notes 05.docx
+│   └── Kaggle Python - Solution 05.ipynb
 ├── Strings and Dictionaries
-│   ├── Kaggle Python - Notes 06.pdf
-│   └── Kaggle Python - Solution 06.pdf
+│   ├── Kaggle Python - Notes 06.docx
+│   └── Kaggle Python - Solution 06.ipynb
 ├── Working with External Libraries
-│   ├── Kaggle Python - Notes 07.pdf
-│   └── Kaggle Python - Solution 07.pdf
+│   ├── Kaggle Python - Notes 07.docx
+│   └── Kaggle Python - Solution 07.ipynb
 └── README.md
 ```
 
