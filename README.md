@@ -61,4 +61,6 @@ The notes and solutions in this repository are my own learning work.
 
 ---
 
-**Status:** In progress 🚧
+**Status:** Completed 🥳
+> Later updates to fix errors or improve content will occur
+
